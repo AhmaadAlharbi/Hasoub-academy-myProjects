@@ -31,7 +31,7 @@
                 <button class="button is-link">Submit</button>
             </div>
             <div class="control">
-                <button class="button is-link is-light">Cancel</button>
+                <a class="button is-link is-light" href="/projects">Cancel</a>
             </div>
         </div>
     </form>
